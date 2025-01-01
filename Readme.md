@@ -18,10 +18,12 @@ Please open an issue and assign to @lukaskuhn-lku for any specific issues.
 
 ### Citation
 
+```
 @MISC{KhunSadiya_2024,
   author={{Lukas Kuhn, Sari Sadiya} and Jorg Schlotterer, and Christin Seifert, and Gemma Roig},
   booktitle={CoRR}, 
   title={Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers}, 
   year={2024}
 }
+```
 
