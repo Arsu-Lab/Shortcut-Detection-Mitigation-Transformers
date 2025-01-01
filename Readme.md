@@ -8,8 +8,10 @@ The ISIC dataset used for this example can be downloaded here: [ISIC Dataset](ht
 
 <img src="./docs/protoPatches.png" width="400"/>
 
-To install the required packages, please run `pip install -r requirements.txt`.
+### Method and Code
 
-<img src="./docs/method.png" width="400"/>
+To install the required packages, please run `pip install -r requirements.txt`. The notebook contains step by step walktrhough of the method for the ISIC example.
+
+<img src="./docs/method.png" width="500"/>
 
 Please open an issue and assign to @lukaskuhn-lku for any specific issues.
