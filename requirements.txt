@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+matplotlib
+scikit-learn
+surgeon-pytorch
+opencv-python
+replicate
+tqdm
+openvino-xai
+pandas
+seaborn
