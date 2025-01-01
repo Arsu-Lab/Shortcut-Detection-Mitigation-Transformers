@@ -12,6 +12,16 @@ The ISIC dataset used for this example can be downloaded here: [ISIC Dataset](ht
 
 To install the required packages, please run `pip install -r requirements.txt`. The notebook contains step by step walktrhough of the method for the ISIC example.
 
+Please open an issue and assign to @lukaskuhn-lku for any specific issues.
+
 <img src="./docs/method.png" width="500"/>
 
-Please open an issue and assign to @lukaskuhn-lku for any specific issues.
+### Citation
+
+@MISC{KhunSadiya_2024,
+  author={{Lukas Kuhn, Sari Sadiya} and Jorg Schlotterer, and Christin Seifert, and Gemma Roig},
+  booktitle={CoRR}, 
+  title={Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers}, 
+  year={2024}
+}
+
