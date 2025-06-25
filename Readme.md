@@ -1,6 +1,6 @@
 ## Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers
 
-This is the official code for the paper "[Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers](https://arxiv.org/pdf/2501.00942)" by Lukas Kuhn, Sari Sadiya, Joerg Schloetterer, Christin Seifert, Gemma Roig.
+This is the official code for the paper "[Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers](https://arxiv.org/pdf/2501.00942)" by Lukas Kuhn, Sari Sadiya, Joerg Schloetterer, Florian Buettner, Christin Seifert, and Gemma Roig as presented in the International Conference on Computer Vision (ICCV 2025).
 
 The methods is able to identify potential shortcuts and mitigate them during inference time using token ablations. We opted for a Jupyter Notebook approach to make the code more accessible and to provide a more interactive experience, since an important part of our research is the understanding and visiualization of the detected shortcut for better interpretability by a domain expert.
 
