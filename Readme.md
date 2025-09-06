@@ -8,6 +8,11 @@ The ISIC dataset used for this example can be downloaded here: [ISIC Dataset](ht
 
 <img src="./docs/protoPatches.png" width="400"/>
 
+### Demo
+The recorded presentation contains a rundown and a demo that starts at 7:30.
+[<img src="https://img.youtube.com/vi/_GflkE5vsgI/maxresdefault.jpg" width="50%">](https://youtu.be/_GflkE5vsgI)
+
+
 ### Method and Code
 
 To install the required packages, please run `pip install -r requirements.txt`. The notebook contains step by step walktrhough of the method for the ISIC example.
@@ -20,7 +25,7 @@ Please open an issue and assign to @lukaskuhn-lku for any specific issues.
 
 ```
 @InProceedings{KuhnSadiya_2025,
-  author    = {{Lukas Kuhn, Sari Sadiya} and Jorg Schlotterer, and Florian Buettner, and Christin Seifert, and Gemma Roig},
+  author    = {Lukas Kuhn, and Sari Sadiya, and Jorg Schlotterer, and Florian Buettner, and Christin Seifert, and Gemma Roig},
   title     = {Efficient Unsupervised Shortcut Learning Detection and Mitigation in Transformers}, 
   booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   month     = {October},
